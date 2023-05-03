@@ -1,2 +1,6 @@
-package fr.formation.entrainementInterfaces.bo;public class Flyable {
+package fr.formation.entrainementInterfaces.bo;
+
+interface Flyable {
+
+    public void fly(String message);
 }
